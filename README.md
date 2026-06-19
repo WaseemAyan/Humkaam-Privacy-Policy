@@ -10,7 +10,7 @@ Humkaam is a platform that connects clients with local professionals based on lo
 
 | File | Description |
 |------|-------------|
-| [`privacy-policy.html`](privacy-policy.html) | Full Privacy Policy (rendered HTML) |
+| [`index.html`](index.html) | Full Privacy Policy (rendered HTML) |
 
 ## Effective Date
 
